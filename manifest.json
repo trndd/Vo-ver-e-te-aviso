@@ -12,7 +12,7 @@
 
   "content_scripts": [
     {
-      "matches": ["*://facebook.com/*"],
+      "matches": ["*://*/*"],
       "run_at": "document_end",
       "js": ["vove.js"]
     }
