@@ -1,9 +1,6 @@
 # Vo ve e te aviso
 Extensão para mudar todas do facebook em imagens do rei do shitpost
 
-
-### Embreve na Chrome WEB Store, to sem dinheiro por enquanto
-
 Apenas no Google Chrome
 
 Baixe aqui 
