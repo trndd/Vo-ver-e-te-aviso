@@ -2,10 +2,6 @@
 
 Apenas no Google Chrome
 
-Baixe aqui 
-
-https://drive.google.com/file/d/14VQItDZHrleryOZEsiTyzGzTOeGtucbj/view?usp=sharing
-
-Extraia, no chrome abra ( chrome://extensions/ ) e arraste a pasta para dentro dessa página
+https://chrome.google.com/webstore/detail/vo-ve-e-te-aviso/aninheofefnibaegpnkmhlhkhjhcdnfp?utm_source=chrome-ntp-icon&authuser=1
 
 ![deus](https://imgur.com/ksJO1OD.png)
