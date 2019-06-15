@@ -2,6 +2,6 @@
 
 Apenas no Google Chrome
 
-[Baixe aqui!](https://chrome.google.com/webstore/detail/vo-ve-e-te-aviso/aninheofefnibaegpnkmhlhkhjhcdnfp?utm_source=chrome-ntp-icon&authuser=1)
+[Instalar no Chrome](https://chrome.google.com/webstore/detail/vo-ve-e-te-aviso/aninheofefnibaegpnkmhlhkhjhcdnfp?utm_source=chrome-ntp-icon&authuser=1)
 
 ![deus](https://imgur.com/ksJO1OD.png)
